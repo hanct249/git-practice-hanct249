@@ -1,0 +1,17 @@
+27d6715 added stuff
+12c1fad added a new file
+d381915 fixed conflict
+24c13ad changed text
+860aa15 changed text
+3bcf73b new text in new feature
+306435a Merge branch 'features' "bringing the people together"
+2a2853f added another line to file 1
+f5b6649 added text to new features file
+2e79c38 add empty file
+e498520 corrected typo
+ca4e3e2 git ignore file added
+cc22183 edited readme file so it has a title and description git status
+3e7ba24 added text to file 2
+20de37b added text to file1
+ee09682 create new files
+66d8f06 create file_1.txt
